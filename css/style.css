@@ -13,6 +13,7 @@ h2 {
 .btn {
     background-color: #82b34d;
     border-color: white;
+    color: white;
 }
 .btn:hover {
     background-color: #568327;
