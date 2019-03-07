@@ -10,6 +10,11 @@ h2 {
     font-weight: 600;
     margin-bottom: 30px;
 }
+.navbar-toggle {
+    color: white;
+    background-color: transparent;
+    border: 3px solid white;  
+}
 .btn {
     background-color: #82b34d;
     border-color: white;
@@ -17,7 +22,18 @@ h2 {
 }
 .btn:hover {
     background-color: #568327;
+    color: white;
     border-color: white;
+}
+.btn:visited {
+    background-color: #568327;
+    border-color: white;
+    color: white;
+}
+.btn:active {
+    background-color: #568327;
+    border-color: white;
+    color: white;
 }
 h4 {
     font-size: 19px;
